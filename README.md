@@ -1,5 +1,7 @@
 # Hackintosh, MSI MAG B550 TOMAHAWK, AMD Ryzen 5 5600X [6c/12t], Gigabyte Aorus Radeon RX580 8G - 0x67DF, 2304 SP
 
+![Overview](https://github.com/user-attachments/assets/30a89aee-78d4-44ca-bc03-9d9a21ed5a83)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sequoia (15.0)
